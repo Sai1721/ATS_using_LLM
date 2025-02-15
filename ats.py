@@ -5,9 +5,9 @@ import PyPDF2 as pdf
 from dotenv import load_dotenv
 import json
 
-#load_dotenv() ## load all our environment variables
+load_dotenv() ## load all our environment variables
 
-genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 def get_gemini_repsonse(input):
     model=genai.GenerativeModel('gemini-pro')
