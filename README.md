@@ -12,6 +12,14 @@
 ✅ Generate a **profile summary** based on the resume  
 ✅ Built using **Streamlit + Google Gemini AI**  
 
+
+### **🔹 Uploading Resume & Job Description**  
+![Upload Section](upload_resume.png)  
+
+### **🔹 AI-Generated ATS Report**  
+![ATS Report](ats_result.png) 
+
+
 ## **⚙️ How It Works**  
 1. **Paste the Job Description** in the text area.  
 2. **Upload your Resume** (PDF format).  
