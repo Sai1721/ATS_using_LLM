@@ -1,6 +1,6 @@
 # **Smart ATS – AI-Powered Resume Analyzer** 🚀  
 
-**🔗 Live Demo:** [Click here to try it on Streamlit](<[your_streamlit_deployment_link](https://sai1721-ats-using-llm-ats-odcyzs.streamlit.app/)>)  
+**🔗 Live Demo:** [Click here to try it on Streamlit](<https://sai1721-ats-using-llm-ats-odcyzs.streamlit.app/>)  
 
 ## **📌 About**  
 **Smart ATS (Application Tracking System)** is an AI-powered resume evaluator that helps job seekers optimize their resumes based on job descriptions. This tool utilizes **Google Gemini AI** to analyze resumes, match them with job descriptions, and provide insights on missing keywords and profile relevance.  
